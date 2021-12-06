@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"model","l":"DataCenter"},{"p":"ui","l":"DataCenterSystem"},{"p":"model","l":"Icesi_PI"},{"p":"model","l":"MiniRoom"},{"p":"model","l":"ProcessorBrand"},{"p":"model","l":"Rack"},{"p":"model","l":"Server"},{"p":"model","l":"Tenant"}]
